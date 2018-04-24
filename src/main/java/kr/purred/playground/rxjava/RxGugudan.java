@@ -1,12 +1,7 @@
 package kr.purred.playground.rxjava;
 
-import org.apache.commons.lang3.tuple.Pair;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-import io.reactivex.Maybe;
 import io.reactivex.Observable;
 
 public class RxGugudan
